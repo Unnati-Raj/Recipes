@@ -1,0 +1,13 @@
+#banner{
+	height:50vh;
+	background-image:url("https://cdn.shopify.com/s/files/1/2236/3995/files/Wk50_2021_Holiday_LPbanner_US_2048x2048.gif?v=1638220225");
+	color:blueviolet;
+	background-size: cover;
+	background-position: center;
+	display:flex;
+	flex-direction:column;
+	justify-content: center;
+	align-items:center;
+
+
+}
