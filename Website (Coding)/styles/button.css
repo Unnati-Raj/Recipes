@@ -1,0 +1,15 @@
+.btn-red {
+	background-color: white;
+    color: darkblue;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 18px 32px;
+    width: 64%;
+    margin: 32px auto;
+    text-align: center;
+}
+
+.btn-red:hover {
+	background-color: white;
+	color: skyblue;
+	transition: 1s;
